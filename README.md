@@ -95,6 +95,7 @@ Projects whose README or author write-up credits REA for the investigation. List
 - [fnv-rea](https://github.com/Matheus2250/fnv-rea) - How Fallout: New Vegas persists object positions across cells, traced with REA and Ghidra, then reimplemented clean-room.
 - [neon-rooftops](https://github.com/kingabzpro/neon-rooftops) - Original pixel-art endless runner built after mapping the Chrome dinosaur engine statically with REA.
 - [rea-dino-reverse-engineering](https://github.com/zhxunzh84/rea-dino-reverse-engineering) - Chrome T-Rex Runner analysed with REA and Codex, reimplemented with regression tests.
+- [Relay garden: REA + DreamLayer game assets](https://github.com/TheDesignFounder/dreamlayer-game-assets) - A playable browser game that uses REA to investigate movement in a small reference we wrote, checks the result across 2,000 inputs, and adds original artwork using Dreamlayer.
 - [samp-client-re](https://github.com/NathanKanaeru/samp-client-re) - Buildable clean-room reimplementation of the SA-MP 0.3.DL client, with the architecture map from REA and Ghidra.
 ### Desktop Apps and Tools
 
