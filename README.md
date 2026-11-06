@@ -159,6 +159,7 @@ Projects whose README or author write-up credits REA for the investigation. List
 - [rec-rs](https://github.com/michaelshimeles/rec-rs) - macOS screen and camera recorder in Rust, an OBS alternative studied with REA.
 - [RENotepad](https://github.com/nikkoxgonzales/RENotepad) - Windows 10 Notepad rebuilt in Rust with the Windows 11 look, analysed with Ghidra through REA.
 - [review](https://github.com/KingDomino/review) - Preview-style PDF and image viewer and editor for Linux in Rust, with the Preview analysis done in REA.
+- [Snapnab](https://github.com/toim22/Snapnab) - A complete screenshot app and editor like SnagIT and other similar tools.
 - [tax-reborn](https://github.com/lxistired/tax-reborn) - Offline US personal tax preparation for desktop and Android, with REA tracing the original calculation resources. Posted as [Project #000002](https://github.com/morluto/rea/discussions/3110).
 - [terminal-rs](https://github.com/michaelshimeles/terminal-rs) - Bloomberg-style trading terminal in Rust, with chart behavior studied through REA's website mode.
 - [uniswap-v2-reborn](https://github.com/devtechedge/uniswap-v2-reborn) - Uniswap v2 rebuilt clean-room from mainnet bytecode, with REA-recovered specs and Solidity proven equal by tests.
