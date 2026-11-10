@@ -194,6 +194,7 @@ Other professional tools:
 - [ArtCraft](https://github.com/storytold/artcraft) - The crafting engine the suite is built around, and the project's main repository.
 - [CADCraft](https://github.com/storytold/cadcraft) - Computer-aided design and drafting in the style of AutoCAD.
 - [Craft Launcher](https://github.com/storytold/craft-launcher) - Installs and updates all of the apps above.
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - Independent desktop studio that reads and writes Figma .fig files and reimplements editor behaviour locally. Source-available under PolyForm Shield 1.0.0.
 - [FigCraft](https://github.com/storytold/figcraft) - Interface design and prototyping in the style of Figma.
 - [SoundCraft](https://github.com/storytold/soundcraft) - Digital audio workstation in the style of Avid Pro Tools.
 
