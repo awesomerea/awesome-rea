@@ -131,6 +131,7 @@ Projects whose README or author write-up credits REA for the investigation. List
 - [clamp-mac](https://github.com/figtracer/clamp-mac) - Unofficial native macOS port of the Clamp clipper audio plugin, reconstructed with REA and Ghidra.
 - [ClashMac-ReloadFix](https://github.com/Drafffffff/ClashMac-ReloadFix) - Unofficial local patch for a ClashMac subscription-reload bug, with REA-assisted analysis and offline regression tests.
 - [claude-code-background](https://github.com/Henry-fan88/claude-code-background) - Interactive glyph-wind background lab reconstructed from a REA study of Claude Code.
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - Independent desktop studio that reads and writes Figma .fig files and reimplements editor behaviour locally, after REA (morluto/rea 6.7.0) analysis documented in the project specs. Source-available under PolyForm Shield 1.0.0.
 - [diodon-clone](https://github.com/h-gj/diodon-clone) - Chinese. The Diodon GTK clipboard manager replicated in Python from REA and Ghidra evidence.
 - [DiskDude](https://github.com/heictojpgpics/DiskDude) - macOS disk space analyzer with Swift source recovered via REA's composed Ghidra workflow.
 - [DiskLens](https://github.com/KarlssonChristoffer/DiskLens) - WinDirStat-style disk usage analyzer for Windows 11 in Rust, Tauri, and Svelte, started as a test of REA.
@@ -194,7 +195,6 @@ Other professional tools:
 - [ArtCraft](https://github.com/storytold/artcraft) - The crafting engine the suite is built around, and the project's main repository.
 - [CADCraft](https://github.com/storytold/cadcraft) - Computer-aided design and drafting in the style of AutoCAD.
 - [Craft Launcher](https://github.com/storytold/craft-launcher) - Installs and updates all of the apps above.
-- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - Independent desktop studio that reads and writes Figma .fig files and reimplements editor behaviour locally. Source-available under PolyForm Shield 1.0.0.
 - [FigCraft](https://github.com/storytold/figcraft) - Interface design and prototyping in the style of Figma.
 - [SoundCraft](https://github.com/storytold/soundcraft) - Digital audio workstation in the style of Avid Pro Tools.
 
