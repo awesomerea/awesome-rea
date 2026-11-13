@@ -560,6 +560,7 @@ Official README translations in the repo: [简体中文](https://github.com/morl
 - [awesome-REA-cases (beyondchenlin)](https://github.com/beyondchenlin/awesome-REA-cases) - REA and AI reverse-engineering cases: game preservation, hardware interoperability, and app reconstruction with sources.
 - [awesome-rea-flisk-cases](https://github.com/flisk-sh/awesome-rea-flisk-cases) - Apps reverse-engineered with REA and rebuilt with the Flisk CLI.
 - [awesome-rea-games](https://github.com/HaozheH3/awesome-rea-games) - Game decompilations, recompilations, demos, and ports gathered in one place.
+- [REA FAANG](https://github.com/EnzoVezzaro/rea-faang) - Complementary catalog of 193 product dossiers, open-source alternatives, and portable build skills for agent-led clean-room rebuilding.
 - [awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything) - AI reverse engineering and rebuilds, noting which ones really used REA.
 - [awesome-reverse-engineer-anything (maluramichael)](https://github.com/maluramichael/awesome-reverse-engineer-anything) - Trending open projects that reverse engineered apps, games, consoles, protocols, and devices, with the tools they used.
 - [awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered) - Over 16,000 open-source tools built by reverse engineering closed apps, APIs, devices, protocols, and formats.
